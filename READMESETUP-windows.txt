@@ -19,4 +19,18 @@ You need to be very cautious while setting up these two variables, because a sin
 
 Do not close this command prompt. If you close it and open it again then you will need to create these two variables again.
 
-Setting up a JDK for Linux/x64
+
+
+
+
+
+
+
+
+
+
+Setting up a JDK for Linux/x64  ?  
+or MAC  ? 
+
+Read the other read me  -  
+
