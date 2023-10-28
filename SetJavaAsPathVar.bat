@@ -1,0 +1,1 @@
+set JAVA_HOME=C:\Users\Jhayke\Desktop\Java\openjdk-21.0.1_windows-x64_bin\jdk-21.0.1
