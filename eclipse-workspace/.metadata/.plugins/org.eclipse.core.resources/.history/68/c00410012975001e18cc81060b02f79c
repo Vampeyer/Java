@@ -1,0 +1,21 @@
+
+public class JavaWalkthrough {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int age = 56 ,userID = 88;
+
+		System.out.println(  "Your age is "    + age + "\n" + " and your userID is  " +"\n  "
+				+ "Now ,  " +  userID +  " \n "
+						+ " These are examples of int or integer data types  , they are 4 bits long");
+		
+		
+		
+		//System.out.println()
+		
+		
+		
+		
+	}
+
+}

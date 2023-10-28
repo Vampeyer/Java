@@ -1,0 +1,13 @@
+
+public class JavaWalkthrough {
+
+	public static void main(Number args) {
+		// TODO Auto-generated method stub
+
+		int age = 32;
+		System.out.println(age);
+		
+		
+	}
+
+}
