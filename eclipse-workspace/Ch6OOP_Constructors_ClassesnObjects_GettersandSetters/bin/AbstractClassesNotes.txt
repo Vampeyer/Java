@@ -1,0 +1,48 @@
+
+
+
+Abstract Classes notes ,  
+
+
+ - In the previous example we have created an abstract class Polygon. 
+ The class contains an abstract method:getArea() and a non- abstract 
+ method 
+ printSides(). 
+ 
+ Then we have inherited the Ractangle class from Plygon. AS you can see the 
+ rectangle class provides the implementation of the abstract method 
+ getArea()
+ 
+ 
+ Why Abstract methods and classes? 
+ 
+ Abstract classes are created to add features  to other classes. 
+ 
+ For example , the polygon class is not used directly. However , 
+ its members are used by the Rectangle subclass. 
+
+** 
+ Similarly , declaring the getArea() subclass makes it sure 
+ that it must be used by the Rectangle subclass. 
+ ** 
+
+ This helps to better understand how classes and methods 
+ are used in a project. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
