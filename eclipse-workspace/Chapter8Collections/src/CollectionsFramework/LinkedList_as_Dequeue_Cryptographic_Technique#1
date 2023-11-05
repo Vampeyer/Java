@@ -1,0 +1,20 @@
+
+
+
+LinkedListasDeque   
+
+This is a method of both 
+removing both of the first and last elements , 
+
+and 
+
+replaceing the  first and last elements .  
+
+here are the methods , in a LinkedList , 
+
+in order to do to 
+
+numbers.addFirst(7);
+numbers.addLast(6); 
+numbers.emoveFirst(); 
+numbers.removeLast();

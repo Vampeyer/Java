@@ -1,0 +1,15 @@
+
+
+
+LinkedList as Queue 
+
+Queue Data Structure 
+
+In queues , elements are stored and acessed in 
+
+First n , First out . manner , that is  
+
+
+
+    Delete<-_  | | | | | | | | | | | | < - Addition
+     			Front 			Rear    

@@ -1,0 +1,28 @@
+
+The Linked List class 
+
+
+The linked list class provides the functionality
+ 
+ * of a doubly linked list data structure *
+ 
+ A doubly linked list data structure consists of 3 fields. 
+ 
+ Prev - Stores the address of the next element. 
+ 
+ Next  - Stores the address of the next element. 
+ 
+ Data - Stores the actual data 
+ 0		1		2
+ ___	___		___
+Prev 	Data 	Next
+ ___	___		___
+
+|
+Null
+ 
+ 
+The LinkedList  automaticaly handles the addresses of the previous and next elements. 
+
+ , THis makes it really easy to work with linked list data structure .  
+ 

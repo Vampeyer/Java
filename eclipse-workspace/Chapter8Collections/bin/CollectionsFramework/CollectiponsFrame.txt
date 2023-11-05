@@ -1,0 +1,40 @@
+
+
+The collections framework 
+
+	  /* The collections framework is a set of classes 
+		   * interfaces that provides imoplementation of commonly 
+		   * used data structures and algorithms in Java. 
+		   * 
+		   *  
+		   * For example, we can use the LinkedList class of 
+		   * the collections framework to implememnt the linked 
+		   * list data structure .
+		   *   
+		   *   
+		   *   // Then we are extending that 		
+		   *   The use of collections framewokrk makes it reallly easy to 
+		   *   implement various data structures and reduces the complexity of writing code. 
+		   *   
+		   *   
+		   *   
+		   *   Set - For unique data  
+		   *   Map - To store data in key value pairs.  
+		   *   
+		  
+		   *   */
+		
+		
+		
+Commonly used collections include 
+ArAay list 
+Linked list 
+HashSet
+HashMap
+Algorithms
+
+
+		
+		
+		
+		
